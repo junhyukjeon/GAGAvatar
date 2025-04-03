@@ -167,4 +167,4 @@ dmypy.json
 .pyre/
 
 # Conda environment
-environment/
+GAGAvatar/
