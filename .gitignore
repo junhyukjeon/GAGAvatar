@@ -168,3 +168,9 @@ dmypy.json
 
 # Conda environment
 GAGAvatar/
+
+# Setup
+setup.sh
+
+# Temp
+temp/
